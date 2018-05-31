@@ -1,0 +1,303 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="row">
+
+	<div class="col-lg-3 col-xs-12">
+	      <!-- small box -->
+	      <div class="small-box bg-aqua">
+	        <div class="inner">
+	          <h3>{{ flight_count|safe }}</h3>
+	          <p>Flights Found in Last 48 Hours</p>
+	        </div>
+	        <div class="icon">
+	          <i class="fa fa-arrow-circle-down"></i>
+	        </div>
+	        <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+	      </div>
+
+	       <div class="small-box bg-red">
+	        <div class="inner">
+	          <h3>{{ last_run|safe }}</h3>
+	          <p>Since the last data pull</p>
+	        </div>
+	        <div class="icon">
+	          <i class="fa fa-hourglass-end"></i>
+	        </div>
+	        <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+	      </div>
+	</div>
+
+	<div class="col-lg-3 col-xs-12">
+		<div class="box box-solid bg-light-blue-gradient" style="position: relative; left: 0px; top: 0px;">
+			<div class="box-header ui-sortable-handle" style="cursor: move;">
+			  <!-- tools box -->
+			  <div class="pull-right box-tools">
+			    <button type="button" class="btn btn-primary btn-sm pull-right" data-widget="collapse" data-toggle="tooltip" title="" data-original-title="Collapse">
+			      <i class="fa fa-minus"></i></button>
+			  </div>
+			  <!-- /. tools -->
+
+			  <i class="fa fa-map-marker"></i>
+
+			  <h3 class="box-title">
+			    Flights
+			  </h3>
+			</div>
+				<div id="world-map-markers" style="height: 237px;"></div>
+			<!-- /.box-body-->
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-xs-12">
+		<div class="box box-primary">
+            <div class="box-header">
+              <h3 class="box-title">Select Dates</h3>
+            </div>
+            <div class="box-body">
+
+              <!-- Date range -->
+              <div class="form-group">
+
+                <div class="input-group">
+                  	<div class="input-group-addon">
+                    	<i class="fa fa-calendar"></i>
+                 	</div>
+                  	<input type="text" class="form-control pull-right" id="reservation">
+                </div>
+
+              	</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- TABLE: LATEST ORDERS -->
+<div class="box box-primary">
+	<div class="box-header with-border">
+	  <h3 class="box-title">Top Deals</h3>
+
+	  <div class="box-tools pull-right">
+	    <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+	    </button>
+	    <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+	  </div>
+	</div>
+	<!-- /.box-header -->
+	<div class="box-body">
+	  <div class="table-responsive">
+	    <table class="table no-margin">
+	      <thead>
+		      <tr>
+		      	<th>Departs From</th>
+		      	<th>Arrives At</th>
+		        <th>Departure Date</th>
+		        <th>Departure Time</th>
+		        <th>Arrival Date</th>
+		        <th>Arrival Time</th>
+		        <th>Duration</th>
+		        <th>Layovers</th>
+		        <th>Airline</th>
+		        <th>Seats Left</th>
+		        <th>Price Per Mile</th>
+		        <th>Price</th>
+		      </tr>
+	  	  </thead>
+	      <tbody>
+	      {% for flight in best_deals %}
+	      <tr class="clickable-row", data-href={{ flight.link }}>
+	        <td>{{ flight.departureAirportCode }}, {{ flight.departureLocation }}</td>
+	        <td>{{ flight.destinationAirportCode }}, {{ flight.destinationLocation }}</td>
+	        <td>{{ flight.departureDate }}</td>
+	        <td>{{ flight.departureTime }}</td>
+	        <td>{{ flight.returnDate}}</td>
+	        <td>{{ flight.arrivalTime }}</td>
+	        <td>{{ flight.duration }}</td>
+	        <td>{{ flight.layovers }}</td>
+	        <td>{{ flight.airline }}</td>
+	        <td>{{ flight.seatsLeft }}</td>
+	        <td>{{ flight.pricePerMile }}</td>
+	        <td><strong>${{ flight.price }}</strong></td>
+	      </tr>
+	      {% endfor %}
+	      </tbody>
+	    </table>
+	  </div>
+	  <!-- /.table-responsive -->
+	</div>
+	<!-- /.box-body -->
+	<div class="box-footer clearfix">
+	  <a href="javascript:void(0)" class="btn btn-sm btn-default btn-flat pull-right">View All Deals</a>
+	</div>
+	<!-- /.box-footer -->
+	</thead>
+</div>
+
+<!-- TABLE: LATEST ORDERS -->
+<div class="box box-primary">
+	<div class="box-header with-border">
+	  <h3 class="box-title">Cheapest Flights</h3>
+
+	  <div class="box-tools pull-right">
+	    <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+	    </button>
+	    <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+	  </div>
+	</div>
+	<!-- /.box-header -->
+	<div class="box-body">
+	  <div class="table-responsive">
+	    <table class="table no-margin">
+	      <thead>
+		      <tr>
+		      	<th>Departs From</th>
+		      	<th>Arrives At</th>
+		        <th>Departure Date</th>
+		        <th>Departure Time</th>
+		        <th>Arrival Date</th>
+		        <th>Arrival Time</th>
+		        <th>Duration</th>
+		        <th>Layovers</th>
+		        <th>Airline</th>
+		        <th>Seats Left</th>
+		        <th>Price</th>
+		      </tr>
+	  	  </thead>
+	      <tbody>
+	      {% for flight in cheap_flights %}
+	      <tr class="clickable-row", data-href={{ flight.link }}>
+	        <td>{{ flight.departureAirportCode }}, {{ flight.departureLocation }}</td>
+	        <td>{{ flight.destinationAirportCode }}, {{ flight.destinationLocation }}</td>
+	        <td>{{ flight.departureDate }}</td>
+	        <td>{{ flight.departureTime }}</td>
+	        <td>{{ flight.returnDate}}</td>
+	        <td>{{ flight.arrivalTime }}</td>
+	        <td>{{ flight.duration }}</td>
+	        <td>{{ flight.layovers }}</td>
+	        <td>{{ flight.airline }}</td>
+	        <td>{{ flight.seatsLeft }}</td>
+	        <td><strong>${{ flight.price }}</strong></td>
+	      </tr>
+	      {% endfor %}
+	      </tbody>
+	    </table>
+	  </div>
+	  <!-- /.table-responsive -->
+	</div>
+	<!-- /.box-body -->
+	<div class="box-footer clearfix">
+	  <a href="javascript:void(0)" class="btn btn-sm btn-default btn-flat pull-right">View All Cheap Flights</a>
+	</div>
+	<!-- /.box-footer -->
+	</thead>
+</div>
+
+<link rel="stylesheet" media="all" href="https://germini.info/js/jqvmap/src/jquery-jvectormap.css"/>
+<script src="https://germini.info/js/jqvmap/src/jquery-1.8.2.js"></script>
+<script src="https://germini.info/js/jqvmap/src/jquery-jvectormap.js"></script>
+<script src="https://germini.info/js/jqvmap/src/jquery-mousewheel.js"></script>
+<script src="https://germini.info/js/jqvmap/src/jvectormap.js"></script>
+<script src="https://germini.info/js/jqvmap/src/abstract-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/abstract-canvas-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/abstract-shape-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-group-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-canvas-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-shape-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-path-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-circle-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-image-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/svg-text-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-group-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-canvas-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-shape-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-path-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-circle-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vml-image-element.js"></script>
+<script src="https://germini.info/js/jqvmap/src/map-object.js"></script>
+<script src="https://germini.info/js/jqvmap/src/region.js"></script>
+<script src="https://germini.info/js/jqvmap/src/marker.js"></script>
+<script src="https://germini.info/js/jqvmap/src/vector-canvas.js"></script>
+<script src="https://germini.info/js/jqvmap/src/simple-scale.js"></script>
+<script src="https://germini.info/js/jqvmap/src/ordinal-scale.js"></script>
+<script src="https://germini.info/js/jqvmap/src/numeric-scale.js"></script>
+<script src="https://germini.info/js/jqvmap/src/color-scale.js"></script>
+<script src="https://germini.info/js/jqvmap/src/legend.js"></script>
+<script src="https://germini.info/js/jqvmap/src/data-series.js"></script>
+<script src="https://germini.info/js/jqvmap/src/proj.js"></script>
+<script src="https://germini.info/js/jqvmap/src/map.js"></script>
+
+<script src="https://germini.info/js/jqvmap/src/jquery-jvectormap-world-mill-en.js"></script>
+<script src={{ url_for('static', filename='bower_components/moment/min/moment.min.js') }}></script>
+<script src={{ url_for('static', filename='bower_components/bootstrap-daterangepicker/daterangepicker.js') }}></script>
+<script src={{ url_for('static', filename='bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js') }}></script>
+<script>
+
+$('#reservation').daterangepicker()
+//Date range picker with time picker
+$('#reservationtime').daterangepicker({ timePicker: true, timePickerIncrement: 30, format: 'MM/DD/YYYY h:mm A' })
+//Date range as a button
+$('#daterange-btn').daterangepicker(
+  {
+    ranges   : {
+      'Today'       : [moment(), moment()],
+      'Yesterday'   : [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+      'Last 7 Days' : [moment().subtract(6, 'days'), moment()],
+      'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+      'This Month'  : [moment().startOf('month'), moment().endOf('month')],
+      'Last Month'  : [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+    },
+    startDate: moment().subtract(29, 'days'),
+    endDate  : moment()
+  },
+function (start, end) {
+$('#daterange-btn span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
+})
+
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.location = $(this).data("href");
+    });
+});
+
+$('#world-map-markers').vectorMap({
+map              : 'world_mill_en',
+normalizeFunction: 'polynomial',
+hoverOpacity     : 0.7,
+hoverColor       : false,
+backgroundColor  : 'transparent',
+regionStyle      : {
+  initial      : {
+    fill            : 'rgba(210, 214, 222, 1)',
+    'fill-opacity'  : 1,
+    stroke          : 'none',
+    'stroke-width'  : 0,
+    'stroke-opacity': 1
+  },
+  hover        : {
+    'fill-opacity': 0.7,
+    cursor        : 'pointer'
+  },
+  selected     : {
+    fill: 'yellow'
+  },
+  selectedHover: {}
+},
+markerStyle      : {
+  initial: {
+    fill  : '#00a65a',
+    stroke: '#111',
+    r: 3
+  }
+},
+markers          : [
+  {% for flight in all_flights %}
+	  { latLng: {{ flight.destinationLatLong }}, name: '$' + {{ flight.price }} },
+  {% endfor %}
+]
+});
+</script>
+
+{% endblock %}

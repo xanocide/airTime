@@ -1,0 +1,748 @@
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: <span data-test-id="departure-time">5:15am</span>
+Arrival: <span data-test-id="arrival-time">1:35pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$744</span>
+Flight time: <span data-test-id="duration">
+            14h 20m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Departure: <span data-test-id="departure-time">8:18am</span>
+Arrival: <span data-test-id="arrival-time">2:39pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+Flight time: <span data-test-id="duration">
+            12h 21m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Departure: <span data-test-id="departure-time">6:28am</span>
+Arrival: <span data-test-id="arrival-time">1:25pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+Flight time: <span data-test-id="duration">
+            12h 57m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Departure: <span data-test-id="departure-time">7:00am</span>
+Arrival: <span data-test-id="arrival-time">2:17pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+Flight time: <span data-test-id="duration">
+            13h 17m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: <span data-test-id="departure-time">5:15am</span>
+Arrival: <span data-test-id="arrival-time">1:35pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$744</span>
+Flight time: <span data-test-id="duration">
+            14h 20m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Departure: <span data-test-id="departure-time">8:18am</span>
+Arrival: <span data-test-id="arrival-time">2:39pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+Flight time: <span data-test-id="duration">
+            12h 21m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Departure: <span data-test-id="departure-time">6:28am</span>
+Arrival: <span data-test-id="arrival-time">1:25pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+Flight time: <span data-test-id="duration">
+            12h 57m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Departure: <span data-test-id="departure-time">7:00am</span>
+Arrival: <span data-test-id="arrival-time">2:17pm</span>
+Airline: <div data-test-id="airline-name">
+            United
+    </div>
+Price: <span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+Flight time: <span data-test-id="duration">
+            13h 17m
+    </span>
+Seats left: None
+Stops: None
+Layovers: None
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: 5:15am
+Arrival: 1:35pm
+Airline: 
+            United
+    
+Price: $744
+Flight time: 
+            14h 20m
+    
+
+INFO:root:
+Departure: 8:18am
+Arrival: 2:39pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            12h 21m
+    
+
+INFO:root:
+Departure: 6:28am
+Arrival: 1:25pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            12h 57m
+    
+
+INFO:root:
+Departure: 7:00am
+Arrival: 2:17pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            13h 17m
+    
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: 5:15am
+Arrival: 1:35pm
+Airline: 
+            United
+    
+Price: $744
+Flight time: 
+            14h 20m
+    
+summary: <div class="uitk-grid all-grid-fallback-alt" data-offer-natural-key="2018-09-24t05:15:00-04:00-coach-zfv-ewr-ua-2914-coach-ewr-hnl-ua-363;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912; " data-test-id="listing-summary">
+<div class="uitk-col all-col-fill custom-col-r-margin">
+<div class="uitk-grid all-grid-fallback-alt smalltablet-col-1-1 mobile-col-1-1" data-test-id="listing-trip-info">
+<div class="uitk-col all-col-fill">
+<div class="uitk-grid all-grid-fallback-alt">
+<div class="uitk-col tablet-col-1-3 desktop-col-1-3 custom-col-r-margin ">
+<div class="primary-content no-wrap custom-primary-padding">
+<span class="medium-bold">
+<span data-test-id="departure-time">5:15am</span>
+        -
+        <span data-test-id="arrival-time">1:35pm</span>
+</span>
+</div>
+<div class="secondary-content overflow-ellipsis inline-children">
+<div class="icon-container">
+<figure class="image aspect-ratio1-1" data-alt="United logo" data-aspect-ratio="1-1" data-class="tile-media" data-media-type="image" data-src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"><img alt="United logo" class="tile-media" src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"/></figure>
+</div>
+<div data-test-id="airline-name">
+            United
+    </div>
+</div>
+</div>
+<div class="uitk-col tablet-col-1-2 desktop-col-1-2 all-col-fill">
+<div class="fluid-content inline-children">
+<span data-test-id="duration">
+            14h 20m
+    </span>
+<span data-test-num-stops="1">
+    (1 stop)
+    </span>
+<div class="amenity-icons"></div>
+</div>
+<div class="secondary-content no-wrap" data-test-id="flight-info">
+<span class="visuallyhidden">Departure airport:</span>
+    ZFV -
+    <span>
+<span aria-hidden="true">
+        2h 29m in EWR
+    </span>
+<span class="visuallyhidden">
+        Layover 2h 29m in EWR
+    </span>
+</span>
+<span class="visuallyhidden">Arrival airport:</span>
+    -
+    HNL
+                    </div>
+<div class="secondary-content overflow-ellipsis" data-test-id="operated-by">
+        United 2914 operated by Amtrak Train
+                        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink">
+<div class="uitk-grid all-grid-fallback-alt all-grid-align-end align-right all-grid-nowrap smalltablet-col-1-1 mobile-col-1-1">
+<div class="uitk-col all-col-fill custom-width" data-test-id="price-column">
+<div class="primary-content ">
+<span class="full-bold no-wrap" data-test-id="listing-price-dollars">$744</span>
+</div>
+<div class="secondary-content ">
+<div data-test-id="price-msg-route-type">
+            roundtrip
+    </div>
+<div class="secondary-positive" data-test-id="free-cancellation-message">Free Cancel w/in 24 hrs</div>
+<div class="loyalty-offer" data-test-id="loyalty-offer"></div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink standard-col-l-margin display-larger-screens-only">
+<button class="btn-secondary btn-action t-select-btn" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="fa754d96c3bf59869ead6bb72f9d7fb8" data-offer-index="1" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-expand="true" data-price="743.87" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="" data-test-id="select-button" data-trip-id="2018-09-24t05:15:00-04:00-coach-zfv-ewr-ua-2914-coach-ewr-hnl-ua-363;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" onclick="getInboundOffersForCachedOffer(this, event);" type="button"><span class="btn-label"><span aria-hidden="true">Select</span><span class="visuallyhidden">Select result 1 when sorted by price</span></span></button>
+</div>
+</div>
+</div>
+<a class="btn btn-primary btn-text flex-link" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="fa754d96c3bf59869ead6bb72f9d7fb8" data-offer-index="1" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-default="true" data-prevent-expand="true" data-price="743.87" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="" data-test-id="select-button" data-trip-id="2018-09-24t05:15:00-04:00-coach-zfv-ewr-ua-2914-coach-ewr-hnl-ua-363;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" href="#" onclick="getInboundOffersForCachedOffer(this, event);"><span class="btn-label"><span class="visuallyhidden">Select result {1} when sorted by price</span></span></a>
+</div>
+INFO:root:
+Departure: 8:18am
+Arrival: 2:39pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            12h 21m
+    
+summary: <div class="uitk-grid all-grid-fallback-alt" data-offer-natural-key="2018-09-24t08:18:00-04:00-coach-phl-den-ua-323-coach-den-hnl-ua-328;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912; " data-test-id="listing-summary">
+<div class="uitk-col all-col-fill custom-col-r-margin">
+<div class="uitk-grid all-grid-fallback-alt smalltablet-col-1-1 mobile-col-1-1" data-test-id="listing-trip-info">
+<div class="uitk-col all-col-fill">
+<div class="uitk-grid all-grid-fallback-alt">
+<div class="uitk-col tablet-col-1-3 desktop-col-1-3 custom-col-r-margin ">
+<div class="primary-content no-wrap custom-primary-padding">
+<span class="medium-bold">
+<span data-test-id="departure-time">8:18am</span>
+        -
+        <span data-test-id="arrival-time">2:39pm</span>
+</span>
+</div>
+<div class="secondary-content overflow-ellipsis inline-children">
+<div class="icon-container">
+<figure class="image aspect-ratio1-1" data-alt="United logo" data-aspect-ratio="1-1" data-class="tile-media" data-media-type="image" data-src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"><img alt="United logo" class="tile-media" src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"/></figure>
+</div>
+<div data-test-id="airline-name">
+            United
+    </div>
+</div>
+</div>
+<div class="uitk-col tablet-col-1-2 desktop-col-1-2 all-col-fill">
+<div class="fluid-content inline-children">
+<span data-test-id="duration">
+            12h 21m
+    </span>
+<span data-test-num-stops="1">
+    (1 stop)
+    </span>
+<div class="amenity-icons"></div>
+</div>
+<div class="secondary-content no-wrap" data-test-id="flight-info">
+<span class="visuallyhidden">Departure airport:</span>
+    PHL -
+    <span>
+<span aria-hidden="true">
+        1h 14m in DEN
+    </span>
+<span class="visuallyhidden">
+        Layover 1h 14m in DEN
+    </span>
+</span>
+<span class="visuallyhidden">Arrival airport:</span>
+    -
+    HNL
+                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink">
+<div class="uitk-grid all-grid-fallback-alt all-grid-align-end align-right all-grid-nowrap smalltablet-col-1-1 mobile-col-1-1">
+<div class="uitk-col all-col-fill custom-width" data-test-id="price-column">
+<div class="primary-content ">
+<span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+</div>
+<div class="secondary-content ">
+<div data-test-id="price-msg-route-type">
+            roundtrip
+    </div>
+<div class="secondary-positive" data-test-id="free-cancellation-message">Free Cancel w/in 24 hrs</div>
+<div class="loyalty-offer" data-test-id="loyalty-offer"></div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink standard-col-l-margin display-larger-screens-only">
+<button class="btn-secondary btn-action t-select-btn" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="afc71e17d317bc7e2aa0d1ed38e471c4" data-offer-index="2" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-expand="true" data-price="767.14" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="BV,ST" data-test-id="select-button" data-trip-id="2018-09-24t08:18:00-04:00-coach-phl-den-ua-323-coach-den-hnl-ua-328;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" onclick="getInboundOffersForCachedOffer(this, event);" type="button"><span class="btn-label"><span aria-hidden="true">Select</span><span class="visuallyhidden">Select result 2 when sorted by price</span></span></button>
+</div>
+</div>
+</div>
+<a class="btn btn-primary btn-text flex-link" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="afc71e17d317bc7e2aa0d1ed38e471c4" data-offer-index="2" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-default="true" data-prevent-expand="true" data-price="767.14" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="BV,ST" data-test-id="select-button" data-trip-id="2018-09-24t08:18:00-04:00-coach-phl-den-ua-323-coach-den-hnl-ua-328;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" href="#" onclick="getInboundOffersForCachedOffer(this, event);"><span class="btn-label"><span class="visuallyhidden">Select result {2} when sorted by price</span></span></a>
+</div>
+INFO:root:
+Departure: 6:28am
+Arrival: 1:25pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            12h 57m
+    
+summary: <div class="uitk-grid all-grid-fallback-alt" data-offer-natural-key="2018-09-24t06:28:00-04:00-coach-phl-iah-ua-2113-coach-iah-hnl-ua-253;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912; " data-test-id="listing-summary">
+<div class="uitk-col all-col-fill custom-col-r-margin">
+<div class="uitk-grid all-grid-fallback-alt smalltablet-col-1-1 mobile-col-1-1" data-test-id="listing-trip-info">
+<div class="uitk-col all-col-fill">
+<div class="uitk-grid all-grid-fallback-alt">
+<div class="uitk-col tablet-col-1-3 desktop-col-1-3 custom-col-r-margin ">
+<div class="primary-content no-wrap custom-primary-padding">
+<span class="medium-bold">
+<span data-test-id="departure-time">6:28am</span>
+        -
+        <span data-test-id="arrival-time">1:25pm</span>
+</span>
+</div>
+<div class="secondary-content overflow-ellipsis inline-children">
+<div class="icon-container">
+<figure class="image aspect-ratio1-1" data-alt="United logo" data-aspect-ratio="1-1" data-class="tile-media" data-media-type="image" data-src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"><img alt="United logo" class="tile-media" src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"/></figure>
+</div>
+<div data-test-id="airline-name">
+            United
+    </div>
+</div>
+</div>
+<div class="uitk-col tablet-col-1-2 desktop-col-1-2 all-col-fill">
+<div class="fluid-content inline-children">
+<span data-test-id="duration">
+            12h 57m
+    </span>
+<span data-test-num-stops="1">
+    (1 stop)
+    </span>
+<div class="amenity-icons"></div>
+</div>
+<div class="secondary-content no-wrap" data-test-id="flight-info">
+<span class="visuallyhidden">Departure airport:</span>
+    PHL -
+    <span>
+<span aria-hidden="true">
+        1h 23m in IAH
+    </span>
+<span class="visuallyhidden">
+        Layover 1h 23m in IAH
+    </span>
+</span>
+<span class="visuallyhidden">Arrival airport:</span>
+    -
+    HNL
+                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink">
+<div class="uitk-grid all-grid-fallback-alt all-grid-align-end align-right all-grid-nowrap smalltablet-col-1-1 mobile-col-1-1">
+<div class="uitk-col all-col-fill custom-width" data-test-id="price-column">
+<div class="primary-content ">
+<span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+</div>
+<div class="secondary-content ">
+<div data-test-id="price-msg-route-type">
+            roundtrip
+    </div>
+<div class="secondary-positive" data-test-id="free-cancellation-message">Free Cancel w/in 24 hrs</div>
+<div class="loyalty-offer" data-test-id="loyalty-offer"></div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink standard-col-l-margin display-larger-screens-only">
+<button class="btn-secondary btn-action t-select-btn" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="031f1369baf3c9248346ae14ca40016d" data-offer-index="3" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-expand="true" data-price="767.14" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="" data-test-id="select-button" data-trip-id="2018-09-24t06:28:00-04:00-coach-phl-iah-ua-2113-coach-iah-hnl-ua-253;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" onclick="getInboundOffersForCachedOffer(this, event);" type="button"><span class="btn-label"><span aria-hidden="true">Select</span><span class="visuallyhidden">Select result 3 when sorted by price</span></span></button>
+</div>
+</div>
+</div>
+<a class="btn btn-primary btn-text flex-link" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="031f1369baf3c9248346ae14ca40016d" data-offer-index="3" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-default="true" data-prevent-expand="true" data-price="767.14" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="" data-test-id="select-button" data-trip-id="2018-09-24t06:28:00-04:00-coach-phl-iah-ua-2113-coach-iah-hnl-ua-253;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" href="#" onclick="getInboundOffersForCachedOffer(this, event);"><span class="btn-label"><span class="visuallyhidden">Select result {3} when sorted by price</span></span></a>
+</div>
+INFO:root:
+Departure: 7:00am
+Arrival: 2:17pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            13h 17m
+    
+summary: <div class="uitk-grid all-grid-fallback-alt" data-offer-natural-key="2018-09-24t07:00:00-04:00-coach-phl-ord-ua-2409-coach-ord-hnl-ua-219;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912; " data-test-id="listing-summary">
+<div class="uitk-col all-col-fill custom-col-r-margin">
+<div class="uitk-grid all-grid-fallback-alt smalltablet-col-1-1 mobile-col-1-1" data-test-id="listing-trip-info">
+<div class="uitk-col all-col-fill">
+<div class="uitk-grid all-grid-fallback-alt">
+<div class="uitk-col tablet-col-1-3 desktop-col-1-3 custom-col-r-margin ">
+<div class="primary-content no-wrap custom-primary-padding">
+<span class="medium-bold">
+<span data-test-id="departure-time">7:00am</span>
+        -
+        <span data-test-id="arrival-time">2:17pm</span>
+</span>
+</div>
+<div class="secondary-content overflow-ellipsis inline-children">
+<div class="icon-container">
+<figure class="image aspect-ratio1-1" data-alt="United logo" data-aspect-ratio="1-1" data-class="tile-media" data-media-type="image" data-src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"><img alt="United logo" class="tile-media" src="//images.trvl-media.com/media/content/expus/graphics/static_content/fusion/v0.1b/images/airlines/s/UA_sq.jpg"/></figure>
+</div>
+<div data-test-id="airline-name">
+            United
+    </div>
+</div>
+</div>
+<div class="uitk-col tablet-col-1-2 desktop-col-1-2 all-col-fill">
+<div class="fluid-content inline-children">
+<span data-test-id="duration">
+            13h 17m
+    </span>
+<span data-test-num-stops="1">
+    (1 stop)
+    </span>
+<div class="amenity-icons"></div>
+</div>
+<div class="secondary-content no-wrap" data-test-id="flight-info">
+<span class="visuallyhidden">Departure airport:</span>
+    PHL -
+    <span>
+<span aria-hidden="true">
+        1h 50m in ORD
+    </span>
+<span class="visuallyhidden">
+        Layover 1h 50m in ORD
+    </span>
+</span>
+<span class="visuallyhidden">Arrival airport:</span>
+    -
+    HNL
+                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink">
+<div class="uitk-grid all-grid-fallback-alt all-grid-align-end align-right all-grid-nowrap smalltablet-col-1-1 mobile-col-1-1">
+<div class="uitk-col all-col-fill custom-width" data-test-id="price-column">
+<div class="primary-content ">
+<span class="full-bold no-wrap" data-test-id="listing-price-dollars">$768</span>
+</div>
+<div class="secondary-content ">
+<div data-test-id="price-msg-route-type">
+            roundtrip
+    </div>
+<div class="secondary-positive" data-test-id="free-cancellation-message">Free Cancel w/in 24 hrs</div>
+<div class="loyalty-offer" data-test-id="loyalty-offer"></div>
+</div>
+</div>
+<div class="uitk-col all-col-shrink standard-col-l-margin display-larger-screens-only">
+<button class="btn-secondary btn-action t-select-btn" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="b2d931b4201ee0fed11d4af90bc18749" data-offer-index="4" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-expand="true" data-price="767.14" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="" data-test-id="select-button" data-trip-id="2018-09-24t07:00:00-04:00-coach-phl-ord-ua-2409-coach-ord-hnl-ua-219;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" onclick="getInboundOffersForCachedOffer(this, event);" type="button"><span class="btn-label"><span aria-hidden="true">Select</span><span class="visuallyhidden">Select result 4 when sorted by price</span></span></button>
+</div>
+</div>
+</div>
+<a class="btn btn-primary btn-text flex-link" data-airfarecategorycode="P" data-bargain-fare="false" data-click-handler="omnitureClickHandler" data-currencycode="USD" data-flightfaretypevalue="1" data-has-fare="true" data-is-cached="true" data-is-split-ticket="false" data-leg-indexes="-1" data-leg0-natural-key="b2d931b4201ee0fed11d4af90bc18749" data-offer-index="4" data-omniture-rfrr="Select.CachedPrice.ExactMatch" data-outbound-airlinecodes="UA,UA" data-prevent-default="true" data-prevent-expand="true" data-price="767.14" data-result-token="v5-aaa6eff646451e4bb62405af64effa80" data-superlatives="" data-test-id="select-button" data-trip-id="2018-09-24t07:00:00-04:00-coach-phl-ord-ua-2409-coach-ord-hnl-ua-219;2018-10-01t15:10:00-10:00-coach-hnl-ewr-ua-362-coach-ewr-zfv-ua-2912;" href="#" onclick="getInboundOffersForCachedOffer(this, event);"><span class="btn-label"><span class="visuallyhidden">Select result {4} when sorted by price</span></span></a>
+</div>
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:Bad proxy: https://45.77.80.15:80
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:Bad proxy: https://143.104.238.70:80
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: 5:15am
+Arrival: 1:35pm
+Airline: 
+            United
+
+Price: $744
+Flight time: 
+            14h 20m
+
+Layovers: 1
+
+INFO:root:
+Departure: 8:18am
+Arrival: 2:39pm
+Airline: 
+            United
+
+Price: $768
+Flight time: 
+            12h 21m
+
+Layovers: 1
+
+INFO:root:
+Departure: 6:28am
+Arrival: 1:25pm
+Airline: 
+            United
+
+Price: $768
+Flight time: 
+            12h 57m
+
+Layovers: 1
+
+INFO:root:
+Departure: 7:00am
+Arrival: 2:17pm
+Airline: 
+            United
+
+Price: $768
+Flight time: 
+            13h 17m
+
+Layovers: 1
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: 5:15am
+Arrival: 1:35pm
+Airline: 
+            United
+    
+Price: $744
+Flight time: 
+            14h 20m
+    
+Layovers: 1
+
+INFO:root:
+Departure: 8:18am
+Arrival: 2:39pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            12h 21m
+    
+Layovers: 1
+
+INFO:root:
+Departure: 6:28am
+Arrival: 1:25pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            12h 57m
+    
+Layovers: 1
+
+INFO:root:
+Departure: 7:00am
+Arrival: 2:17pm
+Airline: 
+            United
+    
+Price: $768
+Flight time: 
+            13h 17m
+    
+Layovers: 1
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: 5:15am
+Arrival: 1:35pm
+Airline: 
+            United
+
+Price: $744
+Flight time: 
+            14h 20m
+
+Layovers: 1
+
+INFO:root:
+Departure: 8:18am
+Arrival: 2:39pm
+Airline: 
+            United
+
+Price: $768
+Flight time: 
+            12h 21m
+
+Layovers: 1
+
+INFO:root:
+Departure: 6:28am
+Arrival: 1:25pm
+Airline: 
+            United
+
+Price: $768
+Flight time: 
+            12h 57m
+
+Layovers: 1
+
+INFO:root:
+Departure: 7:00am
+Arrival: 2:17pm
+Airline: 
+            United
+
+Price: $768
+Flight time: 
+            13h 17m
+
+Layovers: 1
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Departure: 5:15am
+Arrival: 1:35pm
+Airline: United
+Price: $744
+Flight time: 14h 20m
+Layovers: 1
+
+INFO:root:
+Departure: 8:18am
+Arrival: 2:39pm
+Airline: United
+Price: $768
+Flight time: 12h 21m
+Layovers: 1
+
+INFO:root:
+Departure: 6:28am
+Arrival: 1:25pm
+Airline: United
+Price: $768
+Flight time: 12h 57m
+Layovers: 1
+
+INFO:root:
+Departure: 7:00am
+Arrival: 2:17pm
+Airline: United
+Price: $768
+Flight time: 13h 17m
+Layovers: 1
+
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:Bad proxy: https://185.17.122.200:3128
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:Found from PHL to HNL price: $744!
+INFO:root:Found from PHL to HNL price: $768!
+INFO:root:Found from PHL to HNL price: $768!
+INFO:root:Found from PHL to HNL price: $768!
+INFO:root:Inserting 4 documents to mongo scraping.flights
+INFO:root:Mongo documents inserted succesfully!
+INFO:root:
+Loading webpage: https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:PHL,to:HNL,departure:09/24/2018TANYT&leg2=from:PHL,to:HNL,departure:10/01/2018TTANYT&passengers=children:0,adults:1&mode=search
+INFO:root:Found from PHL to HNL price: 744!
+INFO:root:Found from PHL to HNL price: 768!
+INFO:root:Found from PHL to HNL price: 768!
+INFO:root:Found from PHL to HNL price: 768!
+INFO:root:Inserting 4 documents to mongo scraping.flights
+INFO:root:Mongo documents inserted succesfully!
