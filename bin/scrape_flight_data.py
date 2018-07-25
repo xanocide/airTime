@@ -57,8 +57,8 @@ if __name__ == '__main__':
 
     main(
         departure_location="PHL",
-        departure_date="05/25/2018",
-        return_date="05/29/2018",
+        departure_date="07/25/2018",
+        return_date="07/29/2018",
         num_adults=2,
         num_children=0
     )
