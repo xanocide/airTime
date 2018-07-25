@@ -70,7 +70,7 @@ class expediaScraper():
 
         self.urls = {}
 
-        for code in self.to_codes[0:5]:
+        for code in self.to_codes[:100]:
 
             url = self.flight_link.format(
                 from_code=self.from_code,
@@ -99,16 +99,7 @@ class expediaScraper():
 
             for response in responses:
                 for url, resp in response.items():
-                    self.find_api_endpoint(resp)
                     self.html_flight_parser(url, resp)
-
-    def find_api_endpoint(self, response):
-
-        try:
-            html = response.text.encode('UTF-8').decode('latin-1')
-        except Exception:
-            pass
-        import pdb; pdb.set_trace()  # breakpoint 165ae67a //
 
     def html_flight_parser(self, url, response):
         '''
@@ -120,8 +111,7 @@ class expediaScraper():
             html = response.text.encode('UTF-8').decode('latin-1')
             soup = BeautifulSoup(html, 'html.parser')
             flight_container = soup.find('ul', {'id': 'flightModuleList'})
-            flight = list(flight_container.find_all(
-                'li', {'class': "flight-module segment offer-listing"}))[0]
+            flight = list(flight_container.find_all('li', {'class': "flight-module segment offer-listing"}))[0]
         except Exception:
             logging.error('Cannot parse HTML for flights, no data available')
             flight = None

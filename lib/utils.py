@@ -78,13 +78,8 @@ def async_load_responses(urls):
 
     def return_response(url, proxy):
         try:
-            headers = {
-                'User-Agent': (
-                    'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537'
-                    '.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36'
-                )}
             response = requests.get(
-                url, headers=headers, proxies={'https': proxy}, timeout=60)
+                url, proxies={'https': proxy}, timeout=60)
             if response.status_code == requests.codes.ok:
                 logging.info(
                     'Getting response: {url}'.format(url=url) +
